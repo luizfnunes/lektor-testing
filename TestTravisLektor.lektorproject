@@ -1,0 +1,5 @@
+[project]
+name = TestTravisLektor
+
+[servers.ghpages]
+target=ghpages+https://luizfnunes/lektor-testing
